@@ -1,0 +1,18 @@
+#include<stdio.h>
+void main(){
+char name[30];
+int age,wait time;
+print("Enter your name");
+scanf("%s",&name);
+print("%d",&age);
+if(age>=18)
+{
+printf("%s":congratulations you are eliible to vote",&name);
+}
+else
+{
+wait time=18-age
+printf("%s";sorry you are not eligibe to vote and need to be wait for %dyears",name,wait time);
+}
+}
+          
